@@ -1,6 +1,5 @@
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\bin\Debug\netcoreapp3.1\Prestamos.exe
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\Prestamos.csprojAssemblyReference.cache
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\Prestamos.AssemblyInfoInputs.cache
@@ -180,3 +179,4 @@ C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\Razor\Views\Prestamos\Details.cshtml.g.cs
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\Razor\Views\Prestamos\Edit.cshtml.g.cs
 C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\Razor\Views\Prestamos\Index.cshtml.g.cs
+C:\Users\Keven\OneDrive\Escritorio\Calculadora Prestamos\Prestamos\Prestamos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Prestamos.styles.css

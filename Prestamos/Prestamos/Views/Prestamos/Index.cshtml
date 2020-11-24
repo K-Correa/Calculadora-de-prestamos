@@ -9,8 +9,8 @@
 <p>
     <a class="btn btn-success" asp-action="Create">Crear nuevo prestamo</a>
 </p>
-<table class="table">
-    <thead class="thead-dark">
+<table class="table  table-striped table-dark">
+    <thead @*class="thead-dark"*@>
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.Capital)
@@ -43,9 +43,9 @@
                 @Html.DisplayFor(modelItem => item.Clientes.Apellido)
             </td>
             <td>
-                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a class="btn btn-warning" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
             </td>
         </tr>
 }
